@@ -1,0 +1,399 @@
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 575
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T14:44:07
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] ERROR com.mlab.roadplayer.MainController  - MainController() Error in VideoContextCreator null
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - MainController created
+[AWT-EventQueue-0] ERROR com.mlab.roadplayer.Main  - Main(): Error inicializando MainController
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 575
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:18:01
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@3caa4b
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDD2A3F.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDD2A3F.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDD2A3F.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[AWT-EventQueue-0] FATAL com.mlab.roadplayer.Main  - Error creating MainController
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 575
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:18:54
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@ed0220c
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDDFAD0.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDDFAD0.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDDFAD0.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[AWT-EventQueue-0] FATAL com.mlab.roadplayer.Main  - Error creating MainController
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 575
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:19:06
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@366ef7ba
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDE47C7.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDE47C7.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDE47C7.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[AWT-EventQueue-0] FATAL com.mlab.roadplayer.Main  - Error creating MainController
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 575
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:19:41
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@197ebe66
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDEB278.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDEB278.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDEB278.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 575
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:20:44
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@ed0220c
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDFA732.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDFA732.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DDFA732.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Menu...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating MainPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ToolBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating StatusBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - Frame width: 1250
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating InfoPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating AltitudePanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=true
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - MainController created
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainController  - postInit()
+[AWT-EventQueue-0] ERROR com.mlab.roadplayer.Main  - Exception TECACE 2 in App.main() null
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.done()
+[AWT-EventQueue-0] DEBUG com.mlab.map.action.ZoomTrackAction  - ZoomExtentAction.actionPerformed()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainWindow  - RPMainWindow.windowClosing()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.video.VideoModel  - Releasing mediaPlayerComponent
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - savePreferences()
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 576
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:22:04
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@47124746
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE0E0AF.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE0E0AF.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE0E0AF.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Menu...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating MainPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ToolBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating StatusBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - Frame width: 1250
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating InfoPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating AltitudePanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=true
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - MainController created
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainController  - postInit()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.done()
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Starting MapUpdater
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Stopping MapUpdater
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Starting MapUpdater
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.synchrovideo.SynchroVideoTool  - SynchroVideoTool: com.mlab.roadplayer.MainController@47124746
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.synchrovideo.SynchroVideoTool  - SynchroVideoTool: java.awt.Point[x=350,y=149] - DirectPosition2D[-3.930865544464609, 40.411204994555355]
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Stopping MapUpdater
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - Snapshot image size:640, 480
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - saveImageWithoutMetadata() tmpfile=/home/shiguera/Dropbox/tesis/data/BoadillaBrunete/prueba.jpg
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - videoSnapshot() kmlfile=/home/shiguera/Dropbox/tesis/data/BoadillaBrunete/prueba.kml
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - MainController.videoSnapshot(): Se guardó el fichero KML 
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - MainController.setExifTag() : date=2013-03-19 12:42:05
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - MainController.videoSnapshot() saved image with metadata /home/shiguera/Dropbox/tesis/data/BoadillaBrunete/prueba-tagged.jpg
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainWindow  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames() ERROR Failed get FrameExtractorLoader
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainWindow  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames() ERROR Failed get FrameExtractorLoader
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainWindow  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames() ERROR Failed get FrameExtractorLoader
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainWindow  - RPMainWindow.windowClosing()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.video.VideoModel  - Releasing mediaPlayerComponent
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - savePreferences()
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 577
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:23:48
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@40d6c07
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE27841.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE27841.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE27841.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Menu...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating MainPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ToolBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating StatusBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - Frame width: 1250
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating InfoPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating AltitudePanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=true
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - MainController created
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainController  - postInit()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.done()
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Starting MapUpdater
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Stopping MapUpdater
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainWindow  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames()
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 577
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T22:26:10
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@197ebe66
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE4A467.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE4A467.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4DE4A467.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Menu...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating MainPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ToolBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating StatusBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - Frame width: 1250
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating InfoPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating AltitudePanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=true
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - MainController created
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainController  - postInit()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.done()
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Starting MapUpdater
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Stopping MapUpdater
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainWindow  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames() ERROR Failed get FrameExtractorLoader
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - extractFrames() ERROR Failed get FrameExtractorLoader
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainWindow  - RPMainWindow.windowClosing()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.video.VideoModel  - Releasing mediaPlayerComponent
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - savePreferences()
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainWindow  - RPMainWindow.windowClosing()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.video.VideoModel  - Releasing mediaPlayerComponent
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - savePreferences()
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - RoadPlayer 
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - Execution nº 581
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - - GMT: 2015-03-24T23:26:19
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - -----------------------------------------------------------
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - checkProxy(): Switching no proxy mode
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.Main  - initController()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.doInBackground()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=false
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating MainModel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): Creating GpxFactory...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating video context...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoModel  - Creating video model
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.video.VideoControllerImpl  - Creating video trackMap
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating trackMap context
+[SwingWorker-pool-1-thread-3] INFO com.mlab.roadplayer.MainController  - MapContextCreator.doInBackground() :com.mlab.roadplayer.MainController@256ad2fd
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - MapModel()
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4E1BB308.ENGINE  - dataFileCache open start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4E1BB308.ENGINE  - Checkpoint start
+[SwingWorker-pool-1-thread-3] INFO hsqldb.db.HSQLDB4C4E1BB308.ENGINE  - Checkpoint end
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[SwingWorker-pool-1-thread-3] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating MainWindow...
+[SwingWorker-pool-1-thread-1] INFO com.mlab.roadplayer.MainWindow  - Creating main window
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Frame...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Actions...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating Menu...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating MainPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ToolBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - MainWindow.createWindow(): creating StatusBar...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainWindow  - Frame width: 1250
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating InfoPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating AltitudePanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): creating ContentPanel...
+[SwingWorker-pool-1-thread-1] DEBUG com.mlab.roadplayer.MainController  - MainController(): isEnabled=true
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - MainController created
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainController  - postInit()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - ControllerCreator.done()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.setBaseLayer()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMapModel  - TrackMapModel.removeBaseLayer() removing base layer null
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Starting MapUpdater
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Stopping MapUpdater
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.map.TrackMap  - zoomTrack()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.MainController  - RPController.updateMobilePosition() Rendering, no updated
+[pool-2-thread-1] DEBUG com.mlab.roadplayer.MainController  - RPController listener: Starting MapUpdater
+[AWT-EventQueue-0] INFO com.mlab.roadplayer.MainWindow  - RPMainWindow.windowClosing()
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.video.VideoModel  - Releasing mediaPlayerComponent
+[AWT-EventQueue-0] DEBUG com.mlab.roadplayer.Main  - savePreferences()
